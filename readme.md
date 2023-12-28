@@ -1,4 +1,4 @@
-#
+# Vis-Dec: 使用对比学习和跨模态互注意力预训练 fMRI Encoder, 并以之为条件为 LDM 生成图像
 
 Author: <a href="https://yusijin02.github.io/">Sijin Yu</a>
 
